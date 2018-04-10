@@ -1,0 +1,6 @@
+\\sccsvshr501\isdusers$\erik.stansbury\visual studio 2017\Projects\test\test\bin\Debug\test.exe.config
+\\sccsvshr501\isdusers$\erik.stansbury\visual studio 2017\Projects\test\test\bin\Debug\test.exe
+\\sccsvshr501\isdusers$\erik.stansbury\visual studio 2017\Projects\test\test\bin\Debug\test.pdb
+\\sccsvshr501\isdusers$\erik.stansbury\visual studio 2017\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+\\sccsvshr501\isdusers$\erik.stansbury\visual studio 2017\Projects\test\test\obj\Debug\test.exe
+\\sccsvshr501\isdusers$\erik.stansbury\visual studio 2017\Projects\test\test\obj\Debug\test.pdb
